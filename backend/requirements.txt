@@ -1,0 +1,6 @@
+flask>=3.0.3
+flask-cors>=4.0.1
+langchain>=0.2.1
+langchain-community>=0.2.1
+torch>=2.3.0
+transformers>=4.41.2
